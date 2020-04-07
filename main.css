@@ -49,6 +49,10 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 
+h2 {
+	color: #800000;
+	font-size: 175%
+}
 
 #nav_menu ul {
 	list-style-type: none;
